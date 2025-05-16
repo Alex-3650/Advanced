@@ -1,14 +1,10 @@
-import java.awt.image.AreaAveragingScaleFilter;
-import java.io.Console;
-import java.lang.reflect.InaccessibleObjectException;
 import java.util.ArrayDeque;
 import java.util.Arrays;
-import java.util.Collections;
 import java.util.Scanner;
 import java.util.stream.Collectors;
 
 public class PO2SimpleCalculator {
-    public static void main(String[] args) {
+     void main() {
         //2 + 5 + 10 - 2 - 1
          Scanner scanner = new Scanner(System.in);
 
