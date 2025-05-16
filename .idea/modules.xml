@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/MultiDimensionalArrays/MultiDimensionalArrays.iml" filepath="$PROJECT_DIR$/MultiDimensionalArrays/MultiDimensionalArrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/SoftUniAdvanced.iml" filepath="$PROJECT_DIR$/SoftUniAdvanced.iml" />
       <module fileurl="file://$PROJECT_DIR$/StackAndQueue/StackAndQueue.iml" filepath="$PROJECT_DIR$/StackAndQueue/StackAndQueue.iml" />
       <module fileurl="file://$PROJECT_DIR$/StackAndQueueExercise/StackAndQueueExercise.iml" filepath="$PROJECT_DIR$/StackAndQueueExercise/StackAndQueueExercise.iml" />
