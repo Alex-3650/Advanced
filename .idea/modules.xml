@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/SoftUniAdvanced.iml" filepath="$PROJECT_DIR$/SoftUniAdvanced.iml" />
       <module fileurl="file://$PROJECT_DIR$/StackAndQueue/StackAndQueue.iml" filepath="$PROJECT_DIR$/StackAndQueue/StackAndQueue.iml" />
       <module fileurl="file://$PROJECT_DIR$/StackAndQueueExercise/StackAndQueueExercise.iml" filepath="$PROJECT_DIR$/StackAndQueueExercise/StackAndQueueExercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StreamsFilesAndDirectories/StreamsFilesAndDirectories.iml" filepath="$PROJECT_DIR$/StreamsFilesAndDirectories/StreamsFilesAndDirectories.iml" />
     </modules>
   </component>
 </project>
