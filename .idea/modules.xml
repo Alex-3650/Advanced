@@ -4,11 +4,13 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/MultiDimensionalArrays/MultiDimensionalArrays.iml" filepath="$PROJECT_DIR$/MultiDimensionalArrays/MultiDimensionalArrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/MultiDimensionalArraysExercise/MultiDimensionalArraysExercise.iml" filepath="$PROJECT_DIR$/MultiDimensionalArraysExercise/MultiDimensionalArraysExercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion/Recursion.iml" filepath="$PROJECT_DIR$/Recursion/Recursion.iml" />
       <module fileurl="file://$PROJECT_DIR$/SetsAndHashMaps/SetsAndHashMaps.iml" filepath="$PROJECT_DIR$/SetsAndHashMaps/SetsAndHashMaps.iml" />
       <module fileurl="file://$PROJECT_DIR$/SetsAndMapsExercise/SetsAndMapsExercise.iml" filepath="$PROJECT_DIR$/SetsAndMapsExercise/SetsAndMapsExercise.iml" />
       <module fileurl="file://$PROJECT_DIR$/SoftUniAdvanced.iml" filepath="$PROJECT_DIR$/SoftUniAdvanced.iml" />
       <module fileurl="file://$PROJECT_DIR$/StackAndQueue/StackAndQueue.iml" filepath="$PROJECT_DIR$/StackAndQueue/StackAndQueue.iml" />
       <module fileurl="file://$PROJECT_DIR$/StackAndQueueExercise/StackAndQueueExercise.iml" filepath="$PROJECT_DIR$/StackAndQueueExercise/StackAndQueueExercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StramFilesAndDirectoriesExercise/StramFilesAndDirectoriesExercise.iml" filepath="$PROJECT_DIR$/StramFilesAndDirectoriesExercise/StramFilesAndDirectoriesExercise.iml" />
       <module fileurl="file://$PROJECT_DIR$/StreamsFilesAndDirectories/StreamsFilesAndDirectories.iml" filepath="$PROJECT_DIR$/StreamsFilesAndDirectories/StreamsFilesAndDirectories.iml" />
     </modules>
   </component>
