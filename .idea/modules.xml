@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/ClassDefinition/ClassDefinition.iml" filepath="$PROJECT_DIR$/ClassDefinition/ClassDefinition.iml" />
       <module fileurl="file://$PROJECT_DIR$/Functional programming/Functional programming.iml" filepath="$PROJECT_DIR$/Functional programming/Functional programming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FunctionalProgrammingExercise/FunctionalProgrammingExercise.iml" filepath="$PROJECT_DIR$/FunctionalProgrammingExercise/FunctionalProgrammingExercise.iml" />
       <module fileurl="file://$PROJECT_DIR$/MultiDimensionalArrays/MultiDimensionalArrays.iml" filepath="$PROJECT_DIR$/MultiDimensionalArrays/MultiDimensionalArrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/MultiDimensionalArraysExercise/MultiDimensionalArraysExercise.iml" filepath="$PROJECT_DIR$/MultiDimensionalArraysExercise/MultiDimensionalArraysExercise.iml" />
       <module fileurl="file://$PROJECT_DIR$/Recursion/Recursion.iml" filepath="$PROJECT_DIR$/Recursion/Recursion.iml" />
